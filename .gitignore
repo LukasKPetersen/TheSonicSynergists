@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Too big files
+test.npy
+test.mat
+training_labels.mat
+training.mat
+training_labels.np
